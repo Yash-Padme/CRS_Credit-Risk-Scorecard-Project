@@ -17,7 +17,7 @@ Graduation Year: 2027
 
 Interactive credit risk prediction application:
 
-`https://crs-credit-risk-scorecard-project-yashpadme.streamlit.app/`
+https://crs-credit-risk-scorecard-project-yashpadme.streamlit.app/
 
 The application allows users to enter borrower information and instantly receive:
 
