@@ -43,8 +43,8 @@ Example borrower profile:
 
 Model Output:
 
-- Probability of Default: **4.39%**
-- Credit Score: **873**
+- Probability of Default: **1.98%**
+- Credit Score: **839**
 - Risk Category: **Low Risk**
 - Decision: **Approved**
 
